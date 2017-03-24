@@ -1,0 +1,9 @@
+{
+	"Changelist" : 3249277,
+	"CompatibleChangelist" : 3195953,
+	"BuildId" : "b81eeaee-ffb1-4226-af30-2112710cd758",
+	"Modules" : 
+	{
+		"AlamoraProject" : "UE4Editor-AlamoraProject.dll"
+	}
+}
